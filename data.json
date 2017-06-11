@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "56ea2827e2d74b030092148e",
+    "author": "Walter White",
+    "avatar": "img/walter.jpg",
+    "handle": "walter",
+    "date": "Jun 10",
+    "content": "Hey Pinkman!!"
+  },
+    {
+    "_id": "56ea28a8e2d74b030092148f",
+    "author": "Jesse Pinkman",
+    "avatar": "img/pink.jpg",
+    "handle": "pinkman",
+    "date": "Jun 10",
+    "content": "Whats up ? Yo!!"
+  },
+   {
+    "_id": "56ea28e2e2d74b0300921490",
+    "author": "Walter White",
+    "avatar": "img/walter.jpg",
+    "handle": "walter",
+    "date": "Jun 11",
+    "content": "Lets cook meth!!!"
+  },
+    {
+    "_id": "56ea2918e2d74b0300921491",
+    "author": "Jesse Pinkman",
+    "avatar": "img/pink.jpg",
+    "handle": "pinkman",
+    "date": "Jun 11",
+    "content": "Uh, seriously?"
+  },
+    {
+    "_id": "56ea2945e2d74b0300921492",
+    "author": "Walter White",
+    "avatar": "img/walter.jpg",
+    "handle": "walter",
+    "date": "Jun 11",
+    "content": "Meet me soon!!!"
+  },
+   {
+    "_id": "56eabe285214fe0300bc8d39",
+    "author": "Jesse Pinkman",
+    "avatar": "img/pink.jpg",
+    "handle": "pinkman",
+    "date": "Jun 11",
+    "content": "You, uh...you want to cook crystal meth? You. You and, uh...and me?"
+  },
+    {
+    "_id": "593be7c11a50c60400592af7",
+    "author": "Walter White",
+    "avatar": "img/walter.jpg",
+    "handle": "walter",
+    "date": "Jun 11",
+    "content": "That's right. Either that...or I turn you in."
+  },
+  {
+    "_id": "593be8e61a50c60400592af8",
+    "author": "Jesse Pinkman",
+    "avatar": "img/pink.jpg",
+    "handle": "pinkman",
+    "date": "Jun 11",
+    "content": "oh Jeezzz"
+  },
+]

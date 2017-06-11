@@ -1,0 +1,70 @@
+body {
+  background-color: #f5f8fa; }
+
+#bg {
+  height: 200px;
+  background: url("../img/cover.jpg");
+  background-position-y: 82%;
+  background-size: 100%; }
+  #bg img {
+    position: absolute;
+    left: 5%;
+    top: 80px; }
+
+#atts {
+  background: white;
+  border-bottom: 1px lightgrey solid;
+  margin-bottom: 10px;
+  height: 50px;
+  -webkit-box-shadow: 0px -5px 10px -5px rgba(0, 0, 0, 0.5);
+  -moz-box-shadow: 0px -5px 10px -5px rgba(0, 0, 0, 0.5);
+  box-shadow: 0px -5px 10px -5px rgba(0, 0, 0, 0.5); }
+
+#profile-col {
+  padding-left: 5%;
+  padding-top: 10px; }
+
+.tweet-box {
+  margin: 50px 0; }
+
+.photo-box {
+  width: 100%; }
+  .photo-box img {
+    width: 100%; }
+
+.avatar {
+  display: inline-block;
+  vertical-align: top;
+  margin: 10px; }
+
+.tweetails {
+  display: inline-block;
+  width: 86%; }
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none; }
+  ul .glyphicon-retweet:hover {
+    color: green; }
+  ul .glyphicon-heart:hover {
+    color: red; }
+  ul .retweets strong:hover {
+    color: green; }
+  ul .likes strong:hover {
+    color: red; }
+
+.list-group-item:hover {
+  background-color: #f5f8fa; }
+
+li {
+  display: inline-block;
+  margin-right: 20px; }
+  li:hover {
+    cursor: pointer; }
+
+.dropdown-menu li {
+  width: 100%; }
+
+#new-tweet li {
+  background: #e1e8ed; }
